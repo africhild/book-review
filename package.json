@@ -1,0 +1,23 @@
+{
+  "name": "book-review",
+  "version": "1.0.0",
+  "description": "This repository contains collaborative book reviews.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/africhild/book-review.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/africhild/book-review/issues"
+  },
+  "homepage": "https://github.com/africhild/book-review#readme",
+  "dependencies": {
+    "tsc": "^2.0.4"
+  }
+}
